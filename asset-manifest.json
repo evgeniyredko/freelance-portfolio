@@ -1,29 +1,31 @@
 {
   "files": {
     "main.css": "/freelance-portfolio/static/css/main.13d41091.css",
-    "main.js": "/freelance-portfolio/static/js/main.ef88dbd6.js",
+    "main.js": "/freelance-portfolio/static/js/main.31b85a12.js",
     "static/js/787.8b11e2ca.chunk.js": "/freelance-portfolio/static/js/787.8b11e2ca.chunk.js",
     "static/media/02-big.png": "/freelance-portfolio/static/media/02-big.32a0495b329a2337e1ad.png",
     "static/media/01-big.png": "/freelance-portfolio/static/media/01-big.ce70f63d07bde45bb460.png",
     "static/media/02.png": "/freelance-portfolio/static/media/02.adb7f171ff86062bf8f2.png",
+    "static/media/03-big.png": "/freelance-portfolio/static/media/03-big.821b0def7bf185a7e9d7.png",
     "static/media/01.png": "/freelance-portfolio/static/media/01.c2f2c6d16d2321614021.png",
+    "static/media/03.png": "/freelance-portfolio/static/media/03.99173d28fb7a7dffbc66.png",
     "static/media/header-bg.png": "/freelance-portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
-    "static/media/figma.svg": "/freelance-portfolio/static/media/figma.2d392eec45beb9a9fb8846ac90c1430e.svg",
-    "static/media/sun.svg": "/freelance-portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/figma.svg": "/freelance-portfolio/static/media/figma.a538820c88b8973c43469524d56d37cf.svg",
+    "static/media/sun.svg": "/freelance-portfolio/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
     "static/media/behance.svg": "/freelance-portfolio/static/media/behance.2714a91a29c7200853b2587e999aa42b.svg",
-    "static/media/moon.svg": "/freelance-portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
-    "static/media/gitHub.svg": "/freelance-portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
-    "static/media/gitHub-black.svg": "/freelance-portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/moon.svg": "/freelance-portfolio/static/media/moon.312bed9230c94183d589bcc499993093.svg",
+    "static/media/gitHub.svg": "/freelance-portfolio/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
+    "static/media/gitHub-black.svg": "/freelance-portfolio/static/media/gitHub-black.879a08487a26f06ac21248a96c866696.svg",
     "static/media/whatsapp.svg": "/freelance-portfolio/static/media/whatsapp.10ddfaa5143ce25b2231b36b55912dd5.svg",
-    "static/media/vk.svg": "/freelance-portfolio/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/vk.svg": "/freelance-portfolio/static/media/vk.92c39b2c917df4fd4643503dd57a49bf.svg",
     "index.html": "/freelance-portfolio/index.html",
-    "static/media/telegram.svg": "/freelance-portfolio/static/media/telegram.8a4530995fa76b21170ee559c6dc8b31.svg",
+    "static/media/telegram.svg": "/freelance-portfolio/static/media/telegram.d5ab0bccd247ac889bcef37cd7825620.svg",
     "main.13d41091.css.map": "/freelance-portfolio/static/css/main.13d41091.css.map",
-    "main.ef88dbd6.js.map": "/freelance-portfolio/static/js/main.ef88dbd6.js.map",
+    "main.31b85a12.js.map": "/freelance-portfolio/static/js/main.31b85a12.js.map",
     "787.8b11e2ca.chunk.js.map": "/freelance-portfolio/static/js/787.8b11e2ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13d41091.css",
-    "static/js/main.ef88dbd6.js"
+    "static/js/main.31b85a12.js"
   ]
 }
