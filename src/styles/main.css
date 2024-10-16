@@ -316,3 +316,7 @@ body {
 		width: 28px;
 	}
 }
+
+@media (max-width: 480px) {
+	
+}

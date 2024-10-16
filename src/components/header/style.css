@@ -48,3 +48,21 @@
 .header__text p + p {
 	margin-top: 0.5em;
 }
+
+@media (max-width: 680px) {
+	.header__title strong {
+		font-size: 48px;
+	}
+	.header__title {
+		font-size: 35px;
+	}
+}
+
+@media (max-width: 480px) {
+	.header__title strong {
+		font-size: 38px;
+	}
+	.header__title {
+		font-size: 25px;
+	}
+}
