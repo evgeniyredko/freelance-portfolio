@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav className="nav">
       <div className="container">
         <div className="nav-row">
-          <NavLink to="/" className="logo">
+          <NavLink to="/freelance-portfolio/" className="logo">
             <strong>Freelancer</strong> portfolio
           </NavLink>
 
@@ -20,7 +20,7 @@ const Navbar = () => {
           <ul className="nav-list">
             <li className="nav-list__item">
               <NavLink
-                to="/"
+                to="/freelance-portfolio/"
                 className={({ isActive }) =>
                   isActive ? activeLink : normalLink
                 }
@@ -31,7 +31,7 @@ const Navbar = () => {
 
             <li className="nav-list__item">
               <NavLink
-                to="/projects"
+                to="/freelance-portfolio/projects"
                 className={({ isActive }) =>
                   isActive ? activeLink : normalLink
                 }
@@ -41,7 +41,7 @@ const Navbar = () => {
             </li>
             <li className="nav-list__item">
               <NavLink
-                to="/contacts"
+                to="/freelance-portfolio/contacts"
                 className={({ isActive }) =>
                   isActive ? activeLink : normalLink
                 }
