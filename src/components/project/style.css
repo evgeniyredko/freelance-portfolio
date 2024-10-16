@@ -20,6 +20,7 @@
 
 @media (max-width: 680px) {
 	.project-details__buttons {
+		flex-direction: column;
 		row-gap: 30px;
 	}
 }
