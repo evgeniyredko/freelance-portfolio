@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/freelance-portfolio/static/css/main.13d41091.css",
+    "main.js": "/freelance-portfolio/static/js/main.ef88dbd6.js",
+    "static/js/787.8b11e2ca.chunk.js": "/freelance-portfolio/static/js/787.8b11e2ca.chunk.js",
+    "static/media/02-big.png": "/freelance-portfolio/static/media/02-big.32a0495b329a2337e1ad.png",
+    "static/media/01-big.png": "/freelance-portfolio/static/media/01-big.ce70f63d07bde45bb460.png",
+    "static/media/02.png": "/freelance-portfolio/static/media/02.adb7f171ff86062bf8f2.png",
+    "static/media/01.png": "/freelance-portfolio/static/media/01.c2f2c6d16d2321614021.png",
+    "static/media/header-bg.png": "/freelance-portfolio/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/figma.svg": "/freelance-portfolio/static/media/figma.2d392eec45beb9a9fb8846ac90c1430e.svg",
+    "static/media/sun.svg": "/freelance-portfolio/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/behance.svg": "/freelance-portfolio/static/media/behance.2714a91a29c7200853b2587e999aa42b.svg",
+    "static/media/moon.svg": "/freelance-portfolio/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/freelance-portfolio/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/freelance-portfolio/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/whatsapp.svg": "/freelance-portfolio/static/media/whatsapp.10ddfaa5143ce25b2231b36b55912dd5.svg",
+    "static/media/vk.svg": "/freelance-portfolio/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "index.html": "/freelance-portfolio/index.html",
+    "static/media/telegram.svg": "/freelance-portfolio/static/media/telegram.8a4530995fa76b21170ee559c6dc8b31.svg",
+    "main.13d41091.css.map": "/freelance-portfolio/static/css/main.13d41091.css.map",
+    "main.ef88dbd6.js.map": "/freelance-portfolio/static/js/main.ef88dbd6.js.map",
+    "787.8b11e2ca.chunk.js.map": "/freelance-portfolio/static/js/787.8b11e2ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13d41091.css",
+    "static/js/main.ef88dbd6.js"
+  ]
+}
