@@ -7,6 +7,9 @@ import project02Big from "./../img/projects/02-big.png";
 import project03 from "./../img/projects/03.png";
 import project03Big from "./../img/projects/03-big.png";
 
+import project04 from "./../img/projects/04.png";
+import project04Big from "./../img/projects/04-big.png";
+
 const projects = [
   {
     title: "Ote! | FastFood Restaurant",
@@ -14,6 +17,7 @@ const projects = [
     imgBig: project02Big,
     skills: "HTML, CSS, ReactJS, Figma",
     gitHubLink: "https://github.com",
+    link: "#!",
     behanceLink:
       "https://www.behance.net/gallery/152299925/Ote-Kazakhstan-FastFood-Restaurant",
     figmaLink:
@@ -24,6 +28,7 @@ const projects = [
     skills: "HTML, CSS, ReactJS, Figma",
     img: project01,
     imgBig: project01Big,
+    link: "#!",
     gitHubLink: "https://github.com",
     behanceLink:
       "https://www.behance.net/gallery/151466779/COLINS-Kazakhstan-Clothing-Store",
@@ -31,11 +36,20 @@ const projects = [
       "https://www.figma.com/design/vdQGfKLGWupw4Cunjdnntp/COLIN’S-Kazakhstan?node-id=0-1&node-type=canvas&t=dHQpyWpdMoyYIsBS-0",
   },
   {
+    title: "LoftHouse | Housing Estate",
+    img: project04,
+    imgBig: project04Big,
+    skills: "HTML, CSS, SCSS, ReactJS",
+    link: "https://quintesence.github.io/loft-house/",
+    gitHubLink: "https://github.com/Quintesence/loft-house/tree/dev",
+  },
+  {
     title: "Freelance Portfolio",
     img: project03,
     imgBig: project03Big,
     skills: "HTML, CSS, ReactJS",
-    gitHubLink: "https://quintesence.github.io/freelance-portfolio/",
+    link: "https://quintesence.github.io/freelance-portfolio/",
+    gitHubLink: "https://github.com/Quintesence/freelance-portfolio/tree/dev",
   },
 ];
 
