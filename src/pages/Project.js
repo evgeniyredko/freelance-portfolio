@@ -16,7 +16,7 @@ const Project = () => {
             <h1 className="title-1">{project.title}</h1>
           </a>
 
-          <a href={project.link} target="_blank" rel="noopener noreferrer">
+          <a href={project.link} target="_blank" rel="noreferrer">
             <img
               src={project.imgBig}
               alt={project.title}
