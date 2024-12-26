@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/freelance-portfolio/static/css/main.00b27af9.css",
-    "main.js": "/freelance-portfolio/static/js/main.3502fa83.js",
+    "main.js": "/freelance-portfolio/static/js/main.489fe47b.js",
     "static/js/787.8b11e2ca.chunk.js": "/freelance-portfolio/static/js/787.8b11e2ca.chunk.js",
+    "static/media/06-big.png": "/freelance-portfolio/static/media/06-big.eb393538e65d73eb0342.png",
     "static/media/02-big.png": "/freelance-portfolio/static/media/02-big.32a0495b329a2337e1ad.png",
     "static/media/04-big.png": "/freelance-portfolio/static/media/04-big.56c0d8256515fa0fa133.png",
     "static/media/05-big.png": "/freelance-portfolio/static/media/05-big.4e57a5b96fbf9caa62a1.png",
     "static/media/01-big.png": "/freelance-portfolio/static/media/01-big.ce70f63d07bde45bb460.png",
+    "static/media/06.png": "/freelance-portfolio/static/media/06.206713ee6a9ecd9ff944.png",
     "static/media/04.png": "/freelance-portfolio/static/media/04.f30b8cdd93648ae3ceab.png",
     "static/media/02.png": "/freelance-portfolio/static/media/02.adb7f171ff86062bf8f2.png",
     "static/media/05.png": "/freelance-portfolio/static/media/05.abe691854b97ea2c6448.png",
@@ -25,11 +27,11 @@
     "index.html": "/freelance-portfolio/index.html",
     "static/media/telegram.svg": "/freelance-portfolio/static/media/telegram.d5ab0bccd247ac889bcef37cd7825620.svg",
     "main.00b27af9.css.map": "/freelance-portfolio/static/css/main.00b27af9.css.map",
-    "main.3502fa83.js.map": "/freelance-portfolio/static/js/main.3502fa83.js.map",
+    "main.489fe47b.js.map": "/freelance-portfolio/static/js/main.489fe47b.js.map",
     "787.8b11e2ca.chunk.js.map": "/freelance-portfolio/static/js/787.8b11e2ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00b27af9.css",
-    "static/js/main.3502fa83.js"
+    "static/js/main.489fe47b.js"
   ]
 }
