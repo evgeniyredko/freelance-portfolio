@@ -42,12 +42,12 @@ const projects = [
       "https://www.figma.com/design/vdQGfKLGWupw4Cunjdnntp/COLIN’S-Kazakhstan?node-id=0-1&node-type=canvas&t=dHQpyWpdMoyYIsBS-0",
   },
   {
-    title: "Site | In Progress",
+    title: "Panto | Furniture Store",
     img: project06,
     imgBig: project06Big,
-    skills: "HTML, CSS, ReactJS",
-    link: "#!",
-    gitHubLink: "#!",
+    skills: "HTML, CSS, Retina, clamp",
+    link: "https://quintesence.github.io/panto-furniture-store/",
+    gitHubLink: "https://github.com/Quintesence/panto-furniture-store/tree/dev",
   },
   {
     title: "LoftHouse | Housing Complex",
